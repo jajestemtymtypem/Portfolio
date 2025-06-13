@@ -1,0 +1,158 @@
+body{
+    background-color:black;
+    color:white;
+    font-style: normal;
+    FONT-SIZE:20px;
+}
+#container
+{
+    width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+#logo
+{
+float:left;
+font-size:70px;
+width:600px;
+
+}
+#zegar
+{
+float:left;
+font-size:70px;
+}
+.rectangle
+{
+width:960px;
+margin:20px;
+}
+.square
+{
+width:50%;
+float:left;
+}
+.tile1
+{
+float:left;
+margin:10px;
+width:230px;
+height:142px;
+background-color:#3095d3;
+text-align:center;
+}
+.tile1:hover
+{
+    background-color:#2084c2;
+}
+.tile2
+{
+float:left;
+background-color:#444  ;
+margin:10px;
+width:230px;
+height:142px;
+text-align:center;
+}
+.tile2:hover
+{
+    background-color:#333;
+}
+.tile3
+{
+float:left;
+background-color:#444;
+margin:10px;
+width:230px;
+height:142px;
+text-align:center;
+}
+.tile3:hover
+{
+    background-color:#333;
+}
+.tile4
+{
+background-color:#ff5722 ;
+margin:10px;
+width:480px;
+height:142px;
+text-align:center;
+}
+.tile4:hover
+{
+    background-color:#ee4611;
+}
+.tile5
+{
+Background-color:#f0f7f2;
+color:black;
+margin:10px;
+width:440px;
+height:425px;
+text-align:center justify;
+padding:20px;
+letter-spacing:2px;
+}
+.yt
+{
+float:left;
+background-color:#FF0000;
+margin:10px;
+width:146px;
+height:142px;
+text-align:center;   
+}
+.yt:hover
+{
+    background-color:#dd0000;
+}
+.gplus
+{
+float:left;
+background-color:#EA4335;
+margin:10px;
+width:146px;
+height:142px; 
+text-align:center; 
+}
+.gplus:hover
+{
+    background-color:#d93225;
+}
+.github
+{
+float:left;
+background-color:#181717;
+margin:10px;
+width:146px;
+height:142px; 
+text-align:center;  
+}
+.github:hover
+{
+    background-color:#070606;
+}
+a.tilelink
+{
+    color:white;
+    text-decoration:none;
+    display:block;
+    width:230px;
+    height:142px;
+}
+a.tilelinkwww
+{
+    color:white;
+    text-decoration:none;
+    display:block;
+    width:146px;
+    height:142px;
+}
+a.tilelinkhtml5
+{
+    color:white;
+    text-decoration:none;
+    display:block;
+
+}
